@@ -1,7 +1,7 @@
 ---
 title: "Intro"
 date: 2020-07-17T01:16:15-04:00
-draft: true
+draft: false
 ---
 
 # Who am I?
