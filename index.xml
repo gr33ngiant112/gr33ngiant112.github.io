@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>A blog?</title>
+    <link>https://gr33ngiant112.github.io/</link>
+    <description>Recent content on A blog?</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jul 2020 01:16:15 -0400</lastBuildDate>
+    
+	<atom:link href="https://gr33ngiant112.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Intro</title>
+      <link>https://gr33ngiant112.github.io/posts/intro/</link>
+      <pubDate>Fri, 17 Jul 2020 01:16:15 -0400</pubDate>
+      
+      <guid>https://gr33ngiant112.github.io/posts/intro/</guid>
+      <description>Who am I? My name is Austin, I&amp;rsquo;m 29, I live in Cincinnati OH, come fight me.
+I work as a DevOps engineer for GE, for our internal Web Services/Web Hosting group.
+I enjoy:
+ Vidya Cooking Homelabbery Programming Music (Guitar, Drums, Vocals) Sharing things I&amp;rsquo;ve learned  What is this place? I&amp;rsquo;ve wanted a blog for as long as I can remember. As I&amp;rsquo;ve gotten older, (into my late 20s at the time of writing this), I&amp;rsquo;ve struggled with depression, anxiety and a host of other health issues; tldr, now, more than ever, I need a place for my thoughts.</description>
+    </item>
+    
+  </channel>
+</rss>
