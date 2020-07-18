@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on A blog?</title>
-    <link>https://gr33ngiant112.github.io/index.html/posts/</link>
+    <link>https://gr33ngiant112.github.io/posts/</link>
     <description>Recent content in Posts on A blog?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jul 2020 01:16:15 -0400</lastBuildDate>
     
-	<atom:link href="https://gr33ngiant112.github.io/index.html/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gr33ngiant112.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Intro</title>
-      <link>https://gr33ngiant112.github.io/index.html/posts/intro/</link>
+      <link>https://gr33ngiant112.github.io/posts/intro/</link>
       <pubDate>Fri, 17 Jul 2020 01:16:15 -0400</pubDate>
       
-      <guid>https://gr33ngiant112.github.io/index.html/posts/intro/</guid>
+      <guid>https://gr33ngiant112.github.io/posts/intro/</guid>
       <description>Who am I? My name is Austin, I&amp;rsquo;m 29, I live in Cincinnati OH, come fight me.
 I work as a DevOps engineer for GE, for our internal Web Services/Web Hosting group.
 I enjoy:
